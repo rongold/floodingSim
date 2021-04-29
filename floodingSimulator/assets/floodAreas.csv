@@ -1,0 +1,152 @@
+@id,lat,long,label,county,eaAreaName,riverOrSea,Notation
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC045,54.28364,-0.39051,North Sea at Scarborough - Sandside,North Yorkshire,Yorkshire,North Sea,122FWC045
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF520,53.97269,-1.89242,River Wharfe at Bolton Bridge,North Yorkshire,Yorkshire,River Wharfe,122FWF520
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY1C,54.0554,-2.29261,"River Ribble at Settle, comprising Mill Close, New Road and Runley Mill",North Yorkshire,Cumbria and Lancashire,River Ribble,012FWFY1C
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC040,54.48417,-0.61404,North Sea at Whitby Harbour,North Yorkshire,Yorkshire,North Sea,122FWC040
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF345,54.09531,-1.39701,River Ure at Boroughbridge,North Yorkshire,Yorkshire,River Ure,122FWF345
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940,54.13026,-1.47819,Lower River Ure,North Yorkshire,Yorkshire,"River Ure, Swinney Beck, Bishop Monkton Beck, River Skell, River Laver, River Tutt, Stainley Beck",122WAF940
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF340,54.08864,-1.41496,River Ure at Bar Lane Roecliffe,North Yorkshire,Yorkshire,River Ure,122FWF340
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWF070,54.4857,-1.12851,River Leven at lower Great Ayton,North Yorkshire,North East,River Leven,121FWF070
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF234,54.17703,-1.39038,River Swale at Topcliffe,North Yorkshire,Yorkshire,River Swale,122FWF234
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF937,54.28626,-1.53612,Lower River Swale,North Yorkshire,Yorkshire,"River Swale, Cod Beck, Bedale Beck",122WAF937
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF941,54.11113,-1.79543,Upper River Nidd,North Yorkshire,Yorkshire,River Nidd,122WAF941
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF250,54.37581,-1.62726,Brough Beck at Catterick - Swale Pasture Lane and Oran Lane,North Yorkshire,Yorkshire,Brough Beck,122FWF250
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF648,54.13276,-0.78943,River Derwent at Norton,North Yorkshire,Yorkshire,River Derwent,122FWF648
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF627,54.26103,-0.85878,River Seven at Sinnington,North Yorkshire,Yorkshire,River Seven,122FWF627
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980,54.22369,-0.86206,River Seven catchment,North Yorkshire,Yorkshire,River Seven,122WAF980
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF948,54.2275,-0.97748,River Riccal catchment,North Yorkshire,Yorkshire,River Riccal,122WAF948
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036,54.5026,-0.671,North Sea at Sandsend,North Yorkshire,Yorkshire,North Sea,122FWC036
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF590,53.86434,-1.27365,Cock Beck at Stutton,North Yorkshire,Yorkshire,Cock Beck,122FWF590
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF405,54.00112,-1.45396,River Nidd at Knaresborough,North Yorkshire,Yorkshire,River Nidd,122FWF405
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF144,53.70112,-1.10945,River Aire at Hensall,North Yorkshire,Yorkshire,River Aire,123FWF144
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY4A,54.00427,-2.22543,"Hellifield Beck at Hellifield, around Park Place, Park Crescent, and Main Road",North Yorkshire,Cumbria and Lancashire,Hellifield Beck,012FWFY4A
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF102,53.95576,-2.03701,"Ings Beck at Ings Lane, Skipton",North Yorkshire,Yorkshire,Ings Beck,123FWF102
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF315,54.13093,-1.51829,River Skell at Ripon,North Yorkshire,Yorkshire,"River Skell, River Ure, River Laver",122FWF315
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF352,54.0764,-1.32925,River Ure at Lower Dunsforth,North Yorkshire,Yorkshire,River Ure,122FWF352
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF938,54.35876,-1.44125,River Wiske and tributaries,North Yorkshire,Yorkshire,"River Wiske, Brompton Beck, Cod Beck, North Beck, Willow Beck, Sun Beck, Winton Beck",122WAF938
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF310,54.09045,-1.41281,River Ure at Roecliffe Caravan Park,North Yorkshire,Yorkshire,River Ure,122FWF310
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF220,54.39392,-1.68577,River Swale at Brompton-on-Swale caravan park and Brompton Lakes,North Yorkshire,Yorkshire,River Swale,122FWF220
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF936,54.409,-1.88648,Upper River Swale,North Yorkshire,Yorkshire,"River Swale, Gilling Beck, Skeeby Beck",122WAF936
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF692,54.13366,-0.79204,River Derwent at Malton,North Yorkshire,Yorkshire,River Derwent,122FWF692
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF586,53.84669,-1.16233,River Wharfe at Ulleskelf and Ryther,North Yorkshire,Yorkshire,River Wharfe,122FWF586
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048,54.28219,-0.39603,North Sea at Scarborough - Foreshore Road,North Yorkshire,Yorkshire,North Sea,122FWC048
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650,54.01801,-0.88229,River Derwent at Buttercrambe Mill,North Yorkshire,Yorkshire,River Derwent,122FWF650
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF193,53.93938,-2.10642,Broughton Beck at Elslack and Broughton Business Park,North Yorkshire,Yorkshire,Broughton Beck,123FWF193
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF348,54.09904,-1.40265,River Ure at Langthorpe,North Yorkshire,Yorkshire,River Ure,122FWF348
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY1A,54.06615,-2.28731,"River Ribble at Settle, around Holmehead, Watershed Mill and Sowarth Field Ind Est",North Yorkshire,Cumbria and Lancashire,River Ribble,012FWFY1A
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF306,54.22383,-1.66087,Swinney Beck at Masham,North Yorkshire,Yorkshire,Swinney Beck,122FWF306
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF805,54.46463,-0.64734,River Esk from Briggswath to Ruswarp,North Yorkshire,Yorkshire,River Esk,122FWF805
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF757,53.83817,-1.09957,River Ouse at Kelfield,North Yorkshire,Yorkshire,River Ouse,122FWF757
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF253,54.37921,-1.63374,Brough Beck at Catterick - Kings Close and the High Street,North Yorkshire,Yorkshire,Brough Beck,122FWF253
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF773,53.78104,-1.05812,River Ouse at Selby and Barlby,North Yorkshire,Yorkshire,River Ouse,122FWF773
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF211,54.44232,-1.71887,Gilling Beck at Gilling West,North Yorkshire,Yorkshire,Gilling Beck,122FWF211
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF620,54.24564,-0.77956,Pickering Beck riverside properties at Pickering,North Yorkshire,Yorkshire,Pickering Beck,122FWF620
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC050,54.27581,-0.3973,North Sea at Scarborough - Spa Complex,North Yorkshire,Yorkshire,North Sea,122FWC050
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY2C,54.11419,-2.51456,"River Wenning at High Bentham, comprising Lane Foot Cottages to the Sewage Works",North Yorkshire,Cumbria and Lancashire,River Wenning,012FWFY2C
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF105,53.9574,-2.02676,"Eller Beck at Carleton Business Park, Skipton",North Yorkshire,Yorkshire,Eller Beck,123FWF105
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF142,53.73083,-1.1314,"River Aire at West Haddlesey, Chapel Haddlesey and East Haddlesey",North Yorkshire,Yorkshire,River Aire,123FWF142
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF094,53.9823,-2.10439,River Aire at Gargrave,North Yorkshire,Yorkshire,River Aire,123FWF094
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF313,54.14312,-1.5183,River Ure at North Bridge and Rhodes Field Lock,North Yorkshire,Yorkshire,"River Skell, River Ure, River Laver",122FWF313
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF228,54.389,-1.64906,River Swale at Catterick Bridge,North Yorkshire,Yorkshire,River Swale,122FWF228
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF244,54.35996,-1.42829,Brompton Beck at South of Station Road in Brompton,North Yorkshire,Yorkshire,Brompton Beck,122FWF244
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF589,53.86319,-1.19347,River Wharfe at Bolton Percy,North Yorkshire,Yorkshire,River Wharfe,122FWF589
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF154,53.72832,-0.98165,River Aire at Drax,North Yorkshire,Yorkshire,River Aire,123FWF154
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF346,54.03482,-1.27233,River Ure at Aldwark Bridge to Cuddy Shaw,North Yorkshire,Yorkshire,River Ure,122FWF346
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWF055,54.48173,-1.55774,River Tees at Croft,North Yorkshire,North East,River Tees,121FWF055
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF320,54.13958,-1.517,Rivers Ure and Skell in Ripon around Paddies Park,North Yorkshire,Yorkshire,"River Skell, River Laver",122FWF320
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWF071,54.48598,-1.14692,River Leven at Great Ayton,North Yorkshire,North East,River Leven,121FWF071
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF251,54.37682,-1.63172,Brough Beck at Catterick - Low Green and the High Street,North Yorkshire,Yorkshire,Brough Beck,122FWF251
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF649,54.14534,-0.77833,River Derwent at Old Malton,North Yorkshire,Yorkshire,River Derwent,122FWF649
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF230,54.36281,-1.54955,River Swale at Great Langton,North Yorkshire,Yorkshire,River Swale,122FWF230
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF628,54.17478,-0.97718,Hovingham Beck at Hovingham,North Yorkshire,Yorkshire,Hovingham Beck,122FWF628
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF981,54.1847,-1.00387,Holbeck catchment,North Yorkshire,Yorkshire,Holbeck,122WAF981
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF108,53.90855,-1.98496,"River Aire at Skipton Road, Kildwick",North Yorkshire,Yorkshire,River Aire,123FWF108
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF570,53.90914,-1.61729,River Wharfe at Castley Lane,North Yorkshire,Yorkshire,River Wharfe,122FWF570
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF406,53.98141,-1.31639,River Nidd at Hunsingore and Cattal,North Yorkshire,Yorkshire,River Nidd,122FWF406
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY4B,54.00421,-2.22201,"Hellifielld Beck at Hellifield, between railway line, Gisburn Road and Lancashire Yorkshire Terrace",North Yorkshire,Cumbria and Lancashire,Hellifield Beck,012FWFY4B
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY2A,54.11346,-2.51433,"River Wenning at High Bentham, around Wenning Avenue and Riverside Caravan Park",North Yorkshire,Cumbria and Lancashire,River Wenning,012FWFY2A
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF103,53.95634,-2.03026,"Eller Beck at Sandylands, Skipton",North Yorkshire,Yorkshire,Eller Beck,123FWF103
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF140,53.72301,-1.19217,River Aire at Beal,North Yorkshire,Yorkshire,River Aire,123FWF140
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF247,54.34554,-1.43815,Willow Beck at Low Gates,North Yorkshire,Yorkshire,Willow Beck,122FWF247
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF767,53.78215,-1.08204,River Ouse at Selby Dam,North Yorkshire,Yorkshire,"River Ouse, Selby Dam",122FWF767
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF242,54.34151,-1.43272,Confluence of Sun Beck and Turker Beck at Northallerton,North Yorkshire,Yorkshire,Sun Beck,122FWF242
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF630,54.1316,-0.79188,"Mill Beck at Welham Road, Norton",North Yorkshire,Yorkshire,River Derwent,122FWF630
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY1B,54.06839,-2.28641,"River Ribble at Settle, beside the River Ribble at Settle between Christies High Mill and A65",North Yorkshire,Cumbria and Lancashire,River Ribble,012FWFY1B
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWF079,54.45242,-1.27556,River Leven at Hutton Rudby,North Yorkshire,North East,River Leven,121FWF079
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF307,54.09049,-1.4981,Bishop Monkton Beck at Bishop Monkton,North Yorkshire,Yorkshire,Bishop Monkton Beck,122FWF307
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF110,53.89746,-1.99359,Holme Beck at Glusburn,North Yorkshire,Yorkshire,"Holme Beck, Eastburn Beck",123FWF110
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF344,54.09832,-1.39499,River Ure at Milby Island,North Yorkshire,Yorkshire,River Ure,122FWF344
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWF074,54.46971,-1.1953,River Leven at Stokesley,North Yorkshire,North East,River Leven,121FWF074
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF238,54.09292,-1.33351,River Swale at Myton on Swale,North Yorkshire,Yorkshire,River Swale,122FWF238
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF801,54.45811,-0.82614,River Esk at Lealholm,North Yorkshire,Yorkshire,River Esk,122FWF801
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF684,54.29347,-0.44282,"Sea Cut at Mowthorpe, Scalby and Newby including Newby Beck",North Yorkshire,Yorkshire,"Sea Cut, Newby Beck",122FWF684
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF621,54.24865,-0.77704,Pickering Beck at Pickering,North Yorkshire,Yorkshire,Pickering Beck,122FWF621
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF106,53.94498,-2.01906,River Aire at Snaygill Industrial Estate and Cononley Business Park,North Yorkshire,Yorkshire,River Aire,123FWF106
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC030,54.55897,-0.79243,North Sea at Staithes,North Yorkshire,Yorkshire,North Sea,122FWC030
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF404,54.08173,-1.75647,River Nidd at Pateley Bridge and Bewerley,North Yorkshire,Yorkshire,River Nidd,122FWF404
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF314,54.13191,-1.51303,River Skell at Ripon - riverside properties,North Yorkshire,Yorkshire,"River Skell, River Ure, River Laver",122FWF314
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF090,53.9602,-2.02259,Eller Beck at Central Skipton,North Yorkshire,Yorkshire,Eller Beck,123FWF090
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF728,53.86503,-1.12335,River Ouse at Acaster Selby,North Yorkshire,Yorkshire,River Ouse,122FWF728
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF245,54.23139,-1.33788,Cod Beck at Thirsk,North Yorkshire,Yorkshire,Cod Beck,122FWF245
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF224,54.21696,-1.45277,River Swale at Howe village and by Skipton Bridge,North Yorkshire,Yorkshire,River Swale,122FWF224
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF240,54.25374,-1.43495,River Swale at Kirby Wiske,North Yorkshire,Yorkshire,"River Swale, River Wiske",122FWF240
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF585,53.88376,-1.25982,River Wharfe at Tadcaster,North Yorkshire,Yorkshire,River Wharfe,122FWF585
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF139,53.73583,-1.19568,River Aire at Birkin,North Yorkshire,Yorkshire,River Aire,123FWF139
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF347,54.09449,-1.39616,River Tutt at Boroughbridge,North Yorkshire,Yorkshire,"River Tutt, River Ure",122FWF347
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF305,54.22261,-1.65045,River Ure at Masham,North Yorkshire,Yorkshire,River Ure,122FWF305
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWF072,54.4673,-1.17612,River Leven at Lower Stokesley,North Yorkshire,North East,River Leven,121FWF072
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF236,54.13792,-1.34234,River Swale at Thornton Bridge,North Yorkshire,Yorkshire,River Swale,122FWF236
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF756,53.83133,-1.12774,River Ouse at Cawood,North Yorkshire,Yorkshire,River Ouse,122FWF756
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF252,54.3807,-1.63321,Brough Beck at Catterick - Mowbray Road and Brough Meadows,North Yorkshire,Yorkshire,Brough Beck,122FWF252
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF629,54.23482,-0.72034,Thornton Beck at Thornton-le-Dale,North Yorkshire,Yorkshire,Thornton Beck,122FWF629
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF979,54.22152,-0.71693,Thornton Beck catchment,North Yorkshire,Yorkshire,Thornton Beck,122WAF979
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF210,54.40696,-1.79563,River Swale Caravan Parks at Richmond and properties at Lownthwaite Bridge,North Yorkshire,Yorkshire,River Swale,122FWF210
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC038,54.47269,-0.62166,Tidal River Esk from Ruswarp weir downstream to Whitby Bridge (A171),North Yorkshire,Yorkshire,North Sea,122FWC038
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF407,54.00645,-1.43796,River Nidd at Knaresborough Caravan Parks and Goldsborough Mill Farm,North Yorkshire,Yorkshire,River Nidd,122FWF407
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF146,53.71458,-1.07908,River Aire at Hirst Courtney,North Yorkshire,Yorkshire,River Aire,123FWF146
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFY2B,54.1149,-2.51967,"River Wenning at High Bentham, between Todd Hill Farm and the Sewage Works",North Yorkshire,Cumbria and Lancashire,River Wenning,012FWFY2B
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF141,53.71774,-1.16499,River Aire at Kellington,North Yorkshire,Yorkshire,River Aire,123FWF141
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939,54.28988,-1.97954,Upper River Ure,North Yorkshire,Yorkshire,River Ure,122WAF939
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF093,53.90463,-1.97825,River Aire at Cross Hills including the Airedale Trading Park,North Yorkshire,Yorkshire,River Aire,123FWF093
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF248,54.2337,-1.34089,Cod Beck at Thirsk - riverside properties,North Yorkshire,Yorkshire,Cod Beck,122FWF248
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF312,54.12495,-1.49751,River Ure in Ripon at Ure Bank and the Racecourse,North Yorkshire,Yorkshire,River Ure,122FWF312
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF227,54.12328,-1.33284,River Swale at Helperby,North Yorkshire,Yorkshire,River Swale,122FWF227
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF934,54.07595,-1.32656,Lower Dunsforth Access,North Yorkshire,Yorkshire,River Ure,122WAF934
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF243,54.36347,-1.42042,Brompton Beck at North of Station Road in Brompton,North Yorkshire,Yorkshire,Brompton Beck,122FWF243
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF705,54.03558,-1.2379,River Ouse at Linton Lock,North Yorkshire,Yorkshire,River Ouse,122FWF705
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF222,54.39462,-1.72002,River Swale at Richmond and Easby,North Yorkshire,Yorkshire,River Swale,122FWF222
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF109,53.89886,-1.99688,Holme Beck at Crosshills,North Yorkshire,Yorkshire,"Glusburn Beck, Holme Beck, Eastburn Beck",123FWF109
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF802,54.43553,-0.76565,River Esk at Egton Bridge,North Yorkshire,Yorkshire,River Esk,122FWF802
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF100,53.95813,-2.03642,Eller Beck in the Broughton Road area in Skipton,North Yorkshire,Yorkshire,Eller Beck,123FWF100
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF101,53.95746,-2.03214,"Eller Beck at Engine Shed Lane, Skipton",North Yorkshire,Yorkshire,Eller Beck,123FWF101
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF089,53.96036,-2.0145,Waller Hill Beck at Skipton,North Yorkshire,Yorkshire,Waller Hill Beck,123FWF089
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF107,53.94511,-2.01575,Eller Beck at Snaygill Industrial Estate,North Yorkshire,Yorkshire,Eller Beck,123FWF107
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWT148,53.70669,-1.05068,River Aire at Hirst Marsh and West Marsh,North Yorkshire,Yorkshire,River Aire,123FWT148
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWT152,53.7083,-1.02377,River Aire at Carlton,North Yorkshire,Yorkshire,River Aire,123FWT152
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWT145,53.73765,-1.09182,River Aire at Burn Lane,North Yorkshire,Yorkshire,River Aire,123FWT145
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWT001,53.71806,-1.0855,River Aire at Temple Hirst,North Yorkshire,Yorkshire,River Aire,123FWT001
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWB758,53.83161,-1.07061,River Ouse at Riccall,North Yorkshire,Yorkshire,River Ouse,122FWB758
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF713,54.38568,-1.93499,Arkle Beck at Reeth and Low Fremington,North Yorkshire,Yorkshire,Arkle Beck,122FWF713
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF717,54.3439,-1.42503,Turker Beck at Northallerton,North Yorkshire,Yorkshire,Turker Beck,122FWF717
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF745,54.33833,-1.4229,Sun Beck at Northallerton,North Yorkshire,Yorkshire,Sun Beck,122FWF745
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF753,53.89421,-1.99306,Long Dike and Sutton Beck at Sutton in Craven,North Yorkshire,Yorkshire,"Long Dike, Sutton Beck",123FWF753
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF806,54.34241,-1.44004,Willow Beck at Northallerton,North Yorkshire,Yorkshire,Willow Beck,122FWF806
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF746,54.33713,-1.44949,Willow Beck at Romanby,North Yorkshire,Yorkshire,Willow Beck,122FWF746
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF747,54.32959,-1.45624,Willow Beck at Water Treatment Works in Romanby,North Yorkshire,Yorkshire,Willow Beck,122FWF747
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC009,54.29205,-0.40594,North Sea at Scarborough - North Bay,North Yorkshire,Yorkshire,North Sea,122FWC009
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF784,54.04773,-1.95157,River Wharfe at Burnsall,North Yorkshire,Yorkshire,River Wharfe,122FWF784
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF787,54.1466,-2.04801,Kettlewell Beck at Kettlewell,North Yorkshire,Yorkshire,Kettlewell Beck,122FWF787
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF984,54.212,-0.79541,Pickering Beck and Costa Beck catchments,North Yorkshire,Yorkshire,"Pickering Beck, Costa Beck",122WAF984
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF812,54.19393,-0.87055,River Rye at Brawby,North Yorkshire,Yorkshire,River Rye,122FWF812
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982,54.19878,-0.91249,River Rye catchment,North Yorkshire,Yorkshire,River Rye,122WAF982
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF809,54.26043,-0.92142,River Dove at Kirkby Mills and Keldholme,North Yorkshire,Yorkshire,River Dove,122FWF809
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF983,54.24994,-0.92725,River Dove catchment,North Yorkshire,Yorkshire,River Dove,122WAF983
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWT002,53.72025,-1.0964,River Aire upstream of Temple Hirst,North Yorkshire,Yorkshire,River Aire,123FWT002
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF810,54.24404,-0.8117,Costa Beck at Costa Mills,North Yorkshire,Yorkshire,Costa Beck,122FWF810
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF811,54.21142,-0.90167,River Dove at Salton,North Yorkshire,Yorkshire,River Dove,122FWF811
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF814,54.19934,-0.6291,River Derwent at Yedingham,North Yorkshire,Yorkshire,River Derwent,122FWF814
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF815,54.22472,-1.00977,River Riccal at Harome,North Yorkshire,Yorkshire,River Riccal,122FWF815
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF816,54.22273,-0.87271,River Seven at Normanby,North Yorkshire,Yorkshire,River Seven,122FWF816
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF807,54.20659,-0.97603,River Rye at Nunnington,North Yorkshire,Yorkshire,River Rye,122FWF807
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF818,54.23846,-0.8764,River Seven at Marton,North Yorkshire,Yorkshire,River Seven,122FWF818
+http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF819,54.20309,-0.86059,River Seven at Great Barugh,North Yorkshire,Yorkshire,River Seven,122FWF819
