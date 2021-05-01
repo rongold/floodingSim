@@ -345,23 +345,26 @@ public class Map extends JFrame implements JMapViewerEventListener {
 			double lat = Double.parseDouble(read[1]);
 			double lon = Double.parseDouble(read[2]);
 
-			for (ArrayList<String> activeFloods : curFloods) {
-				if (activeFloods.contains(read[7])) {
-					if (activeFloods.get(1).equals("1")) {
-						map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon, MapMarkerDot.get1Style()));
-						break;
-					} else if (activeFloods.get(1).equals("2")) {
-						map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon, MapMarkerDot.get2Style()));
-						break;
+			if (!curFloods.isEmpty() == true) {
+				for (ArrayList<String> activeFloods : curFloods) {
+					if (activeFloods.contains(read[7])) {
+						if (activeFloods.get(1).equals("1")) {
+							map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon, MapMarkerDot.get1Style()));
+							break;
+						} else if (activeFloods.get(1).equals("2")) {
+							map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon, MapMarkerDot.get2Style()));
+							break;
 
-					} else if (activeFloods.get(1).equals("3")) {
-						map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon, MapMarkerDot.get3Style()));
-						break;
+						} else if (activeFloods.get(1).equals("3")) {
+							map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon, MapMarkerDot.get3Style()));
+							break;
+						}
+					} else {
+						map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon));
 					}
-				} 
-					else {
-					map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon));
 				}
+			} else {
+				map().addMapMarker(new MapMarkerDot(layer, read[3], lat, lon));
 			}
 
 		}
